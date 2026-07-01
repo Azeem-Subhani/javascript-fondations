@@ -1,6 +1,5 @@
 # Objects Study Guide
 
-This guide is based on `lecture_notes.md` for `05-objects`.
 
 It focuses on:
 
